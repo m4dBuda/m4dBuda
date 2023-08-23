@@ -18,6 +18,8 @@ Software Engineer, Full Stack Developer, passionated about Back-end Engineering
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg">
   <img align="center" alt="Ruby on Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg">
+  
 </div>
 <br />
 <div> 
