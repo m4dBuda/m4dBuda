@@ -1,5 +1,5 @@
 ## Hello, i'm João Otávio, aka Buda!
-Software Engineer, Full Stack Developer, passionated about Back-end and DevOps Engineering!
+Software Engineer, Full Stack Developer, passionated about Back-end Engineering!
 
 <div>
   <a href="https://github.com/m4dBuda"></a>
